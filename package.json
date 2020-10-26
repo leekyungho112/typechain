@@ -1,0 +1,16 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "repository": "https://github.com/leekyungho112/typechain.git",
+  "author": "leekyungho112 <epsoe@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
